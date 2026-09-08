@@ -7,5 +7,6 @@ def deuxième_fonction():
     a=int(input('Veuillez entrer un nombre'))
     b=int(input('Veuillez entrer un autre nombre')))
     return a*b
+
 def sum(a, b):
     return a + b
