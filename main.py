@@ -4,7 +4,7 @@ def ma_fonction_nicolas():
   
 def ma_fonction():
     a=int(input('Veuillez entrer un nombre'))
-    b=int(input('Veuillez entrer son exposant'))
+    b=int(input('Veuillez entrer son exposant')) #
     return a**b
 
 def deuxième_fonction():
