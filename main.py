@@ -1,3 +1,7 @@
+def ma_fonction_nicolas():
+    print("Hello Nicolas")
+    return True
+  
 def ma_fonction():
     a=int(input('Veuillez entrer un nombre'))
     b=int(input('Veuillez entrer son exposant')))
